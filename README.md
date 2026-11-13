@@ -32,6 +32,10 @@ Show me pull requests in progress
 Who last modified this file
 ```
 
+## Move a session into Kepler
+
+Run `/gitkraken:open-in-kepler [name]` in Claude Code to continue the current session in [Kepler](https://www.gitkraken.com/kepler). It requires Kepler; if it isn't installed, the command links the download. When Kepler takes the session over, it closes this terminal.
+
 ## Support
 
 If you run into any issues, double check if we have the problem covered in our [Help Center](https://help.gitkraken.com/mcp/mcp-getting-started/).
